@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/github-header.png" alt="PRABS25 GitHub Banner" width="100%" />
+</div>
+
+<br/>
 
 # PRABS25
 
